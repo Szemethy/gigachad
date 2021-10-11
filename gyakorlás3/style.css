@@ -1,0 +1,41 @@
+.teszt{
+    text-align: right;
+}
+.sorkizárt{
+    text-align: justify;
+}
+.középre{
+    text-align: center;
+}
+#cím{
+    color:blue;
+}
+.piros{
+    color:red;
+}
+h2{
+    color: gray;
+}
+.container{
+    width: 70%;
+    /*margin-left: auto;
+    margin-right: auto;*/
+    margin:0 auto;
+    background-color:lightgray;
+}
+.fél{
+    background-color:orange;
+    border: 1px solid black;
+    height: 100px;
+    width: calc(50%-2px);
+    float: left;
+}
+#hamradik{
+    clear: both;
+}
+img{
+    width: 50%;
+    float: right;
+    margin-left: 6px;
+    margin-bottom: 6px;
+}
